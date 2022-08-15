@@ -1,0 +1,10 @@
+name: Voting
+version: '${project.version}'
+main: kenjih.voting.Voting
+api-version: 1.18
+authors: [ luck212 ]
+commands:
+  vote:
+    description: Vote für einen Spieler
+  votes:
+    description: Zeigt alle Votes an
